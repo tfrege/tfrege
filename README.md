@@ -20,7 +20,7 @@ My focus is not on a single cloud or industry—but on architecting systems that
 - NASA and private satellite sector  
 - LEO connectivity, telemetry, and distributed communications  
 
-:link: https://github.com/YOUR_USERNAME/leo-connectivity-architecture
+:link: https://github.com/tfrege/leo-connectivity-architecture
 
 ---
 
@@ -29,7 +29,7 @@ My focus is not on a single cloud or industry—but on architecting systems that
 - Department of Defense and defense contractors  
 - Secure, isolated, and compliance-driven systems  
 
-:link: https://github.com/YOUR_USERNAME/govcloud-lza-patterns
+:link: https://github.com/tfrege/govcloud-lza-patterns
 
 ---
 
@@ -38,7 +38,7 @@ My focus is not on a single cloud or industry—but on architecting systems that
 - Department of Energy and research environments  
 - High-performance computing and large-scale simulations  
 
-:link: https://github.com/YOUR_USERNAME/event-driven-log-pipeline
+:link: https://github.com/tfrege/event-driven-log-pipeline
 
 ---
 
@@ -47,7 +47,7 @@ My focus is not on a single cloud or industry—but on architecting systems that
 - Healthcare insurance platforms  
 - Auditability, encryption, and compliance-driven architectures  
 
-:link: https://github.com/YOUR_USERNAME/event-driven-log-pipeline
+:link: https://github.com/tfrege/event-driven-log-pipeline
 
 ---
 
@@ -56,7 +56,7 @@ My focus is not on a single cloud or industry—but on architecting systems that
 - Bioinformatics and scientific workflows  
 - Data pipelines, HPC, and distributed processing  
 
-:link: https://github.com/YOUR_USERNAME/multi-cloud-data-synchronization
+:link: https://github.com/tfrege/multi-cloud-data-synchronization
 
 ---
 
@@ -65,7 +65,7 @@ My focus is not on a single cloud or industry—but on architecting systems that
 - Multi-country telecom infrastructure  
 - High-throughput, low-latency systems  
 
-:link: https://github.com/YOUR_USERNAME/leo-connectivity-architecture
+:link: https://github.com/tfrege/leo-connectivity-architecture
 
 ---
 
