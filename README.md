@@ -60,7 +60,7 @@ My focus is not on a single cloud or industry—but on architecting systems that
 
 ---
 
-## :satellite_antenna: Telecommunications & Distributed Systems
+## :antenna: Telecommunications & Distributed Systems
 
 - Multi-country telecom infrastructure  
 - High-throughput, low-latency systems  
